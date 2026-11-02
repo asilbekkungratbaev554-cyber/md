@@ -14,3 +14,7 @@
 ``` html
 <h1>Learning Markdown Format</h1>
 ```
+# table
+
+| Nomer | Name | email |
+| 1 | John Doe | john@gmail.com |

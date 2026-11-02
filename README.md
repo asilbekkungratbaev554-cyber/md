@@ -25,3 +25,10 @@
 
 # Image
 ![Image](https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg)
+
+# Tasks
+
+- [] Heading format
+- [] Image
+- [] Urls
+- [] Table

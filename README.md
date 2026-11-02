@@ -24,4 +24,4 @@
 [Youtube](https://youtube.com)
 
 # Image
-[!Image](https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg)
+![Image](https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg)
